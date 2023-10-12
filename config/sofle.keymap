@@ -97,7 +97,7 @@
             sensor-bindings = <&layer_rotate 2 1>;
         };
 
-        layer_3 {
+        System {
             bindings = <
 &trans  &trans  &trans      &trans       &trans  &trans                    &trans  &trans  &trans       &trans      &trans  &trans
 &trans  &trans  &trans      &trans       &trans  &trans                    &trans  &trans  &trans       &trans      &trans  &trans
